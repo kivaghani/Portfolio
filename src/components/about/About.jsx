@@ -28,7 +28,7 @@ const About = () => {
           <article className="about__card">
             <PiUsersFill className='about__icon'/>
             <h5>Profession</h5>
-            <small>a student</small>
+            <small>Software Developer</small>
           </article>
 
           <article className="about__card">
@@ -38,8 +38,8 @@ const About = () => {
           </article>
       </div>
       <p>
-         Passionate Front-End Developer with a creative eye for design and a strong commitment to delivering exceptional user experiences. Proficient in HTML, CSS, JavaScript, Bootstrap and React JS, I bring fresh perspectives to web development projects. Eager to collaborate with dynamic teams and contribute innovative solutions that captivate users and drive engagement.
-      </p>
+
+      Passionate Full Stack Developer with a keen eye for design and a steadfast dedication to crafting outstanding user experiences. Proficient in HTML, CSS, JavaScript, Bootstrap, React JS, NodeJS, ExpressJS and MONGODB.  I bring a unique blend of creativity and technical expertise to every project. Enthusiastic about collaborating with dynamic teams, I am committed to contributing innovative solutions that not only captivate users but also drive meaningful engagement. My goal is to seamlessly integrate design and functionality, ensuring each application I develop is both visually appealing and highly performant.      </p>
 
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
     </div>
